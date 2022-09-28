@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+}
+.description{
+    font-size: 20px;
+}
+li{
+    font-size: 18px;
+}
+.legend-title{
+    font-size: 20px;
+}
+.tags{
+    font-size: 18px;
+}
+summary{
+    color: red;
+}
+th{
+    background-color: rgb(90, 198, 198);
+   font-size: 20px;
+  
+   padding: 10px 15px;
+}
+td{
+    font-size: 20px;
+    padding: 10px 10px 10px 25px;
+}
+table{
+    margin-bottom: 20px;
+}
